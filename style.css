@@ -1,8 +1,11 @@
 body {
-	background-color: #00FFE0;;
+	background-color: #00FFE0;
 }
 hr {
-	border-color: #000000;
+	height: 1px;
+	color: #000000;
+	background-color: #000000;
+	border: none;
 }
 h1 {
 	text-align: center;
